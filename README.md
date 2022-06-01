@@ -1,4 +1,5 @@
-- 👋 Hi, I'm @Julieta3164
+- 👋 Hi, I'm Juliet Linarez 
+- My profile in github is @Julieta3164
 - 👀 I am interested in learning
 - 🌱 Currently I am basically learning the use of github
 - 💞️ I'm looking to collaborate in everything that helps me learn programming
