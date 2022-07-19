@@ -3,7 +3,8 @@
 - 👀 I'm interested in learning<br>
 - 🌱 I currently qualify as a Junior Developer <br>
 - 💞️ I seek to learn as much as possible<br>
-
+<br>
+<br>
 <h1>Connect with me:</h1>
 
 <a href="https://es.linkedin.com/in/juliet-gabrielli-linarez-nacero-92363b6a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:julietlinarez@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-juligana-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/juligana).
