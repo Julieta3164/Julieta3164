@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://photos.google.com/photo/AF1QipOVcDd0e1tNEcc0w8K-frMhv7tDLaLKWayUPKM3" />
 
 - 👋 Hi, I'm Juliet Linarez 
 - My profile in github is @Julieta3164
@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://es.linkedin.com/in/juliet-gabrielli-linarez-nacero-92363b6a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:julietlinarez@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-juligana-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/juligana).
 
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <h1>Languages and Tools:</h1>
 <p>
