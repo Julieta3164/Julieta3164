@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1>Languages and Tools:</h1>
 <p>
-<code><img width="8%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="file:///Users/julietlinarez/Downloads/gitkraken-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-official.svg"></code>
