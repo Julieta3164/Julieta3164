@@ -10,15 +10,13 @@ You can click the Preview link to take a look at your changes.
 <h1>Connect with me:</h1>
 
 <h1>Languages and Tools:</h1>
-#### :computer: Programming languages and tools: 
 <p>
+<code><img width="8%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-official.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gitkraken/gitkraken-icon.svg"></code>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
