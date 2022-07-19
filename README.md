@@ -13,10 +13,10 @@ You can click the Preview link to take a look at your changes.
 
 <h1>Connect with me:</h1>
 
-<a href="https://es.linkedin.com/in/juliet-gabrielli-linarez-nacero-92363b6a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:julietlinarez@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-juligana-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/juligana)
+<a href="https://es.linkedin.com/in/juliet-gabrielli-linarez-nacero-92363b6a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:julietlinarez@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-juligana-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/juligana).   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" (https://github.com/Julieta3164)/>
 
 
-https://github.com/Julieta3164
+
 <h1>Languages and Tools:</h1>
 <p>
 
