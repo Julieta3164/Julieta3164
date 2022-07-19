@@ -9,6 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Connect with me:</h1>
 
+<a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 <h1>Languages and Tools:</h1>
 <p>
 
