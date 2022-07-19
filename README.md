@@ -1,4 +1,5 @@
-<img align="right" alt="GIF" height="160px" src="![image](https://user-images.githubusercontent.com/104632585/179780672-5bbdb53d-d75c-4580-a557-fc3d556708b9.png)" />
+<img align="right" alt="GIF" height="160px" src="![image](https://user-images.githubusercontent.com/104632585/179781751-7d90880e-1f7c-4a0d-96ae-f0e69191f81e.png)
+"/>
 
 - 👋 Hi, I'm Juliet Linarez 
 - My profile in github is @Julieta3164
