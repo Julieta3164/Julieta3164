@@ -1,8 +1,9 @@
-<img align="left" alt="emoji" height="200px" src="https://sdk.bitmoji.com/render/panel/20054939-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
+<img align="left" alt="emoji" height="180px" src="https://sdk.bitmoji.com/render/panel/20054939-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
 - 👋 Hi, I'm Julieta Linarez<br>
 - 👀 I'm interested in learning<br>
 - 🌱 I currently qualify as a Junior Developer <br>
 - 💞️ I seek to learn as much as possible<br>
+<br>
 <br>
 <br>
 <h1>Connect with me:</h1>
