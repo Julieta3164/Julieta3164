@@ -1,5 +1,4 @@
 <img align="left" alt="emoji" height="160px" src="https://sdk.bitmoji.com/render/panel/10231297-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
-
 - 👋 Hi, I'm Juliet Linarez 
 - My profile in github is @Julieta3164
 - 👀 I am interested in learning
@@ -32,6 +31,7 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 </p>
 
+<img align="left" alt="emoji" height="160px" src="https://sdk.bitmoji.com/render/panel/20054939-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
 <h1>Other Tools</h1>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
  
