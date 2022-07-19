@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height="160px" src="https://sdk.bitmoji.com/render/panel/10231297-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
+<img align="left" alt="emoji" height="160px" src="https://sdk.bitmoji.com/render/panel/10231297-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
 
 - 👋 Hi, I'm Juliet Linarez 
 - My profile in github is @Julieta3164
@@ -25,11 +25,12 @@ You can click the Preview link to take a look at your changes.
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+<br>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-<br>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<br>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
