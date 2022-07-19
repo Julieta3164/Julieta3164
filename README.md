@@ -7,7 +7,13 @@
 <br>
 <h1>Connect with me:</h1>
 
-<a href="https://es.linkedin.com/in/juliet-gabrielli-linarez-nacero-92363b6a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:julietlinarez@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-juligana-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/juligana).
+<a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> 
+<a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a> 
+<a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"></a>
+<a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"></a>
+
+
+
 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -30,7 +36,7 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 </p>
-<img align="right" alt="emoji" height="160px" src="https://sdk.bitmoji.com/render/panel/10231297-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
+<img align="right" alt="emoji" height="250px" src="https://sdk.bitmoji.com/render/panel/10231297-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
 
 <h1>Other Tools</h1>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
