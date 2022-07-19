@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 <h1>Connect with me:</h1>
 
 <h1>Languages and Tools:</h1>
-  <img class="card-img-top" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8cqi237vrb29FAr-9bvIVHfbgRiHkJvPerFPK3J0ETbopCiH0" alt="Logo HTML5">
+
  
