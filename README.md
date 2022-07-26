@@ -8,9 +8,17 @@
 <br>
 <h1>Connect with me:</h1>
 
-<a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> 
-<a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://es.linkedin.com/in/juliet-gabrielli-linarez-nacero-92363b6a?trk=people-guest_people_search-card" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+<a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 
 
