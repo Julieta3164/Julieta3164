@@ -11,7 +11,7 @@
 <a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> 
 <a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a> 
 <a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"></a>
-<a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"></a>
+
 
 
 
