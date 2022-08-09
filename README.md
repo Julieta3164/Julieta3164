@@ -3,6 +3,7 @@
 - 👀 I'm interested in learning<br>
 - 🌱 I currently qualify as a Junior Developer <br>
 - 💞️ I seek to learn as much as possible<br>
+- 🍄 Student in a fullstack development bootcamp in Factoria F5** </br>
 <br>
 <br>
 <br>
