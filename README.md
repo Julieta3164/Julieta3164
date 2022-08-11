@@ -1,5 +1,5 @@
 <img align="left" alt="emoji" height="180px" src="https://sdk.bitmoji.com/render/panel/20054939-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
-- 👋 Hi, I'm Julieta Linarez<br>
+- 👋 Hi, I'm Juliet Linarez<br>
 - 👀 I'm interested in learning<br>
 - 🌱 I currently qualify as a Junior Developer <br>
 - 💞️ I seek to learn as much as possible<br>
@@ -10,9 +10,9 @@
 <h1>Connect with me:</h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+<a href="https://www.linkedin.com/in/juliet-gabrielli-linarez-nacero/" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-<a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
+<a href="julietlinarez@gmail.com" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="_blank"><img width="5%" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
