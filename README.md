@@ -66,6 +66,7 @@
 <h3>Backend</h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
 
 </p>
 <img align="right" alt="emoji" height="250px" src="https://sdk.bitmoji.com/render/panel/10231297-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
