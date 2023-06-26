@@ -77,5 +77,6 @@
 <h1>Other Tools</h1>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"</code>
 <br>
  
