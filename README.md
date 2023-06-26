@@ -71,7 +71,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 
 </p>
-<img align="right" alt="emoji" height="250px" src="https://sdk.bitmoji.com/render/panel/10231297-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
+<img align="right" alt="emoji" height="200px" src="https://sdk.bitmoji.com/render/panel/10231297-100196956490_3-s5-v1.png?transparent=1&palette=1&scale=2"/>
 
 <br>
 <h1>Other Tools</h1>
